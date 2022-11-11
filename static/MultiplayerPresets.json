@@ -10,8 +10,11 @@
         },
         "Data": {
             "Contracts": [
+                "8fcf8f5d-0fe9-47d7-bff3-d747d0cd1e89",
                 "c854d9c7-8991-42db-a2e4-3cf93e645e81",
-                "d5ad70f4-7dbb-4b2b-b183-061778a51468"
+                "d5ad70f4-7dbb-4b2b-b183-061778a51468",
+                "cad4e1f8-5f3b-48d9-91ad-30ac0c5446cd",
+                "f203ac12-8cda-41ac-a455-6051bfbbcaa0"
             ],
             "Properties": {
                 "mode": "invite",
@@ -31,11 +34,48 @@
         },
         "Data": {
             "Contracts": [
+                "8fcf8f5d-0fe9-47d7-bff3-d747d0cd1e89",
                 "c854d9c7-8991-42db-a2e4-3cf93e645e81",
-                "d5ad70f4-7dbb-4b2b-b183-061778a51468"
+                "d5ad70f4-7dbb-4b2b-b183-061778a51468",
+                "cad4e1f8-5f3b-48d9-91ad-30ac0c5446cd",
+                "f203ac12-8cda-41ac-a455-6051bfbbcaa0"
             ],
             "Properties": {
                 "mode": "matchmaking",
+                "active": true,
+                "__comment": "mode can be: matchmaking/invite/all"
+            }
+        }
+    },
+    {
+        "Id": "8861f258-0949-43f1-b1fd-652b0a2ab0b4",
+        "GameMode": "versus",
+        "Metadata": {
+            "Title": "UI_LOCATION_COASTALTOWN_CITY",
+            "Header": "UI_MENU_LOBBY_INVITEPLAYER",
+            "Image": "images/locations/location_coastaltown/tile.jpg"
+        },
+        "Data": {
+            "Contracts": ["8c230fea-990f-4dab-afe1-ddb0a7654452"],
+            "Properties": {
+                "mode": "invite",
+                "active": true,
+                "__comment": "mode can be: matchmaking/invite/all"
+            }
+        }
+    },
+    {
+        "Id": "257089ae-38b9-417e-9ec1-105ca54df27e",
+        "GameMode": "versus",
+        "Metadata": {
+            "Title": "UI_LOCATION_NEWZEALAND_CITY",
+            "Header": "UI_MENU_LOBBY_INVITEPLAYER",
+            "Image": "images/locations/location_newzealand_day/tile.jpg"
+        },
+        "Data": {
+            "Contracts": ["8fcf8f5d-0fe9-47d7-bff3-d747d0cd1e89"],
+            "Properties": {
+                "mode": "invite",
                 "active": true,
                 "__comment": "mode can be: matchmaking/invite/all"
             }
@@ -68,6 +108,40 @@
         },
         "Data": {
             "Contracts": ["d5ad70f4-7dbb-4b2b-b183-061778a51468"],
+            "Properties": {
+                "mode": "invite",
+                "active": true,
+                "__comment": "mode can be: matchmaking/invite/all"
+            }
+        }
+    },
+    {
+        "Id": "4d6fe2e7-4d21-4266-8d7a-debc1e7fd0ff",
+        "GameMode": "versus",
+        "Metadata": {
+            "Title": "UI_LOCATION_NORTHAMERICA_CITY",
+            "Header": "UI_MENU_LOBBY_INVITEPLAYER",
+            "Image": "images/locations/location_northamerica/tile.jpg"
+        },
+        "Data": {
+            "Contracts": ["cad4e1f8-5f3b-48d9-91ad-30ac0c5446cd"],
+            "Properties": {
+                "mode": "invite",
+                "active": true,
+                "__comment": "mode can be: matchmaking/invite/all"
+            }
+        }
+    },
+    {
+        "Id": "19148e41-7389-4adb-b378-524deddab4b8",
+        "GameMode": "versus",
+        "Metadata": {
+            "Title": "UI_LOCATION_EDGY_FOX_CITY",
+            "Header": "UI_MENU_LOBBY_INVITEPLAYER",
+            "Image": "images/locations/location_edgy/edgy_tile.jpg"
+        },
+        "Data": {
+            "Contracts": ["f203ac12-8cda-41ac-a455-6051bfbbcaa0"],
             "Properties": {
                 "mode": "invite",
                 "active": true,
