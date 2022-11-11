@@ -25,6 +25,7 @@ import { log, LogLevel } from "./loggingInterop"
 import {
     STEAM_NAMESPACE_2018,
     STEAM_NAMESPACE_2021,
+    STEAM_NAMESPACE_2021_DEMO,
 } from "./platformEntitlements"
 import {
     getExternalUserData,
@@ -147,7 +148,8 @@ export async function handleOauthToken(
 
     const isHitman3 =
         external_appid === "fghi4567xQOCheZIin0pazB47qGUvZw4" ||
-        external_appid === STEAM_NAMESPACE_2021
+        external_appid === STEAM_NAMESPACE_2021 ||
+        external_appid === STEAM_NAMESPACE_2021_DEMO
 
     const gameVersion: GameVersion = isFrankenstein
         ? "scpc"
@@ -255,7 +257,10 @@ export async function handleOauthToken(
                         req.body.access_token,
                         req.body.epic_userid,
                     )
-                } else if (external_platform === "steam") {
+                } else if (
+                    external_appid === STEAM_NAMESPACE_2021 ||
+                    external_appid === STEAM_NAMESPACE_2021_DEMO
+                ) {
                     return await new IOIStrategy(
                         gameVersion,
                         STEAM_NAMESPACE_2021,
