@@ -146,8 +146,13 @@ export const missionsInLocations = {
             "f19f7ac8-39ec-498b-aa23-44c8e75d8693",
             "35f1f534-ae2d-42be-8472-dd55e96625ea",
         ],
-        LOCATION_GOLDEN_GECKO: ["be14d4f1-f1aa-4dea-8c9b-a5b1a1dea931"],
+        LOCATION_GOLDEN_GECKO: [
+            "ae04c7a0-4028-4524-b27f-6a62f020fdca",
+            "be14d4f1-f1aa-4dea-8c9b-a5b1a1dea931",
+        ],
         LOCATION_ANCESTRAL_BULLDOG: [
+            "8e95dcd0-704f-4121-8be6-088a3812f838",
+            "a838c4b0-7db5-4ac7-8d52-e8c5b82aa376",
             "b12d08ea-c842-498a-82ea-889653588592",
             "78628e05-93ce-4f87-8a17-b910d32df51f",
         ],
@@ -156,10 +161,16 @@ export const missionsInLocations = {
         ],
         LOCATION_EDGY_FOX: [
             "9d88605f-6871-46a8-bd46-9804ea04fca9",
+            "e3b65e65-636b-4dfd-bb42-65a18c5dce4a",
             "ccdc7043-62af-44e8-a5fc-38b008c2044e",
         ],
-        LOCATION_WET_RAT: ["07ffa72a-bbac-45ca-8c9f-b9c1b526153a"],
+        LOCATION_WET_RAT: [
+            "5121acde-313d-4517-ae70-6a54ca5d775a",
+            "494d97a6-9e31-45e0-9dae-f3793c731336",
+            "07ffa72a-bbac-45ca-8c9f-b9c1b526153a",
+        ],
         LOCATION_ELEGANT_LLAMA: [
+            "8c8ed496-948f-4672-879b-4d9575406577",
             "72aaaa7b-4386-4ee7-9e9e-73fb8ff8e416",
             "1e4423b7-d4ff-448f-a8a8-4bb600cab7e3",
             "edbacf4b-e402-4548-b723-cd4351571537",

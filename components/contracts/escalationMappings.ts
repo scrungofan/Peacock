@@ -559,4 +559,58 @@ export const escalationMappings: {
         2: "c59baa15-5946-4354-875e-1c98ef7f1bfe",
         3: "83655c86-012f-4d2b-a57d-5b021af99af1",
     },
+    /**
+     * The Greed Enumeration - Lunaria
+     */
+    "ae04c7a0-4028-4524-b27f-6a62f020fdca": {
+        1: "d97d1485-e313-42c7-9d74-9efc9c1aab4e",
+        2: "11bfeb1c-2e6c-496a-bc82-0e76fc037c7c",
+        3: "fecb5488-a31e-4eff-a08d-63d966ea96a2",
+    },
+    /**
+     * The Pride Profusion - Makoyana
+     */
+    "494d97a6-9e31-45e0-9dae-f3793c731336": {
+        1: "605ccf31-14b3-42d1-b2ff-22710fc87168",
+        2: "d1b14b00-2393-4037-baf9-0217dd710427",
+        3: "4d0e0458-1aba-4017-a3bd-629cfdac3916",
+    },
+    /**
+     * The Sloth Depletion - Harebell
+     */
+    "a838c4b0-7db5-4ac7-8d52-e8c5b82aa376": {
+        1: "64d93c47-bcc0-400c-8b8a-e97ff14e94d2",
+        2: "135bb8a1-1b8f-4f43-8f8a-6eebf72d86e7",
+        3: "b8201747-5bb5-47d4-9a9b-1bd851317206",
+    },
+    /**
+     * The Lust Assignation - Ambrosia
+     */
+    "e3b65e65-636b-4dfd-bb42-65a18c5dce4a": {
+        1: "cb712a0c-cf36-4c36-86d8-f57502e594bd",
+    },
+    /**
+     * The Gluttony Gobble - Azalea
+     */
+    "5121acde-313d-4517-ae70-6a54ca5d775a": {
+        1: "d3f078c4-9644-4e83-9e5d-dd2942b5a032",
+        2: "fbf95b41-49cd-4118-b729-3cbcd7708357",
+        3: "28554a75-1e86-46f7-ae1c-638d76295566",
+    },
+    /**
+     * The Envy Contention - Frangipani
+     */
+    "8c8ed496-948f-4672-879b-4d9575406577": {
+        1: "b7c1de70-6bbc-4a9b-9f89-8ec00ba6b8b2",
+        2: "25fb11e4-9cd5-4deb-a583-4982b9803298",
+        3: "615beb4f-ba37-4e95-bead-3638cd240976",
+    },
+    /**
+     * The Wrath Termination - Hollyhock
+     */
+    "8e95dcd0-704f-4121-8be6-088a3812f838": {
+        1: "2b6f918f-079e-46b4-9ee0-bcceee3a7362",
+        2: "0a25518e-3b06-4e01-b619-6d3bb814523f",
+        3: "08989af9-8270-4875-9dbe-af068cce2ba0",
+    },
 }
