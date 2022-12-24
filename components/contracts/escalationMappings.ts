@@ -613,4 +613,12 @@ export const escalationMappings: {
         2: "0a25518e-3b06-4e01-b619-6d3bb814523f",
         3: "08989af9-8270-4875-9dbe-af068cce2ba0",
     },
+    /**
+     * The Christmas Calamity
+     */
+    "07bbf22b-d6ae-4883-bec2-122eeeb7b665": {
+        1: "d415f893-563a-443a-860e-33cf90c4547b",
+        2: "6fa8267b-730f-48c7-ae62-f7155eb62340",
+        3: "7e392d08-e3db-4f96-8bf2-97d28369dbec",
+    },
 }
