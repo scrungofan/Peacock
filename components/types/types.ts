@@ -361,6 +361,7 @@ export interface UserProfile {
             __stats?: unknown
             PersistentBool: Record<string, unknown>
         }
+        CPD: CPDStore
     }
     ETag: string | null
     Gamertag: string

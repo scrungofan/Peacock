@@ -731,5 +731,6 @@
     "assembly:/_pro/scenes/missions/elegant/scene_frangipani.entity": [],
     "assembly:/_pro/scenes/missions/ancestral/scene_hollyhock.entity": [
         "ddc2d081-0a07-498f-babf-3016aabf5118"
-    ]
+    ],
+    "assembly:/_pro/scenes/missions/snug/scene_vanilla.entity": []
 }

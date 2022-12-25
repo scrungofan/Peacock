@@ -282,6 +282,7 @@ export class ChallengeService extends ChallengeRegistry {
             contractId: contractId,
             locationId: contract.Metadata.Location,
             locationParentId: contractParentLocation,
+            isEvergreen: contract.Metadata.Type === "evergreen",
         })
     }
 
