@@ -130,9 +130,9 @@
         "Bricks": [
             "assembly:/_PRO/Scenes/bricks/ui_versus.brick",
             "assembly:/_PRO/Scenes/bricks/vs_race_multiplayer.brick",
-            "assembly:/_PRO/Scenes/Missions/coastaltown/versus_entrance_coastaltown.brick",
-            "assembly:/_PRO/Scenes/Missions/coastaltown/versus_items_coastaltown.brick",
-            "assembly:/_PRO/Scenes/Missions/coastaltown/versus_targets_coastaltown.brick"
+            "assembly:/_pro/scenes/missions/coastaltown/versus_entrance_octopus.brick",
+            "assembly:/_pro/scenes/missions/coastaltown/versus_items_octopus.brick",
+            "assembly:/_pro/scenes/missions/coastaltown/versus_targets_octopus.brick"
         ],
         "VR": [
             {
