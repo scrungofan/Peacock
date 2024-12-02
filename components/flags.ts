@@ -53,7 +53,7 @@ export const defaultFlags: Flags = {
                 category: "Gameplay",
                 title: "enableMasteryProgression",
                 desc: "When set to false, mastery progression will be disabled and all unlockables will be awarded at the beginning",
-                default: true,
+                default: false,
             },
             elusivesAreShown: {
                 category: "Gameplay",
